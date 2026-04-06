@@ -19,7 +19,7 @@ Este repositorio es un Monorepo que actualmente contiene la lógica del Backend:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/arriolalucas/tu-repositorio.git](https://github.com/arriolalucas/tu-repositorio.git)
+   git clone [https://github.com/arriolalucas/price-comparator-api.git](https://github.com/arriolalucas/price-comparator-api.git)
    cd tu-repositorio/backend
 
 2. **Crear y activar el entorno virtual:**
